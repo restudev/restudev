@@ -21,7 +21,6 @@
 </header>
 <br />
 <br />
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo restu">
 <details>
   <summary><h2>📊 Statistics</h2></summary>
   <div>
