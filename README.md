@@ -8,8 +8,8 @@
 
 <header>
   <div align="center">
-    <a href="https://restu-dev.vercel.app/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=restu-dev.vercel.app&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    <a href="https://restu-dev">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=restu.vercel.app&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://twitter.com/mathtech_">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-mathtech-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
