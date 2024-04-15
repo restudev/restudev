@@ -14,7 +14,7 @@
     <a href="https://twitter.com/mathtech_">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-mathtech-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://figma.com/@restudev">
+    <a href="https://www.figma.com/@restulestari">
       <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@restudev&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
