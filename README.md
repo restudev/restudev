@@ -28,7 +28,7 @@
     <br />
     <div>
       <a href="https://github.com/restudev">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=restudev&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
+        <img alt="This GitHub profile views" src="https://komarev.com/ghpvc/?username=restudev&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
     </div>
